@@ -353,3 +353,7 @@
 [submodule "plugins/decky-download-all"]
 	path = plugins/decky-download-all
 	url = https://github.com/bentemple/decky-download-all.git
+[submodule "plugins/decky-efibootmgr"]
+	path = plugins/decky-efibootmgr
+	url = https://github.com/f-ever/decky-efibootmgr.git
+	branch = main
